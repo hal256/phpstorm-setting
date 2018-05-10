@@ -1,0 +1,24 @@
+<templateSet group="user">
+  <template name="teste" value="diveee" description="e" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="php" value="&lt;?php $SELECTION$ ?&gt;" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="echo" value="&lt;?php echo &quot;$SELECTION$&quot;; ?&gt;" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="hph" value="?&gt;&#10;            &#10;            &lt;?php" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+      <option name="PHP Comment" value="false" />
+      <option name="PHP String Literal" value="false" />
+    </context>
+  </template>
+</templateSet>
