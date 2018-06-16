@@ -48,6 +48,7 @@
       <mapping pattern="school_sample" type="PLAIN_TEXT" />
       <mapping pattern="regist_data_new_room_sample" type="PLAIN_TEXT" />
       <mapping pattern="mansion" type="PLAIN_TEXT" />
+      <mapping pattern=".production_env" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1509096407" type="PLAIN_TEXT" />
       <mapping pattern="bukken_data_dump" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1509173016" type="PLAIN_TEXT" />
