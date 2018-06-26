@@ -27,7 +27,7 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="--no-cache --update --output-style $FileNameWithoutExtension.scss:$ProjectFileDir$/lp/css/$FileNameWithoutExtension.css" />
+      <option name="arguments" value="$USER_HOME$/Dropbox/dev/cibo/NXA_WP_LP/lp/scss/style.scss:/Users/hal/Dropbox/dev/cibo/NXA_WP_LP/lp/css/style.css" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
