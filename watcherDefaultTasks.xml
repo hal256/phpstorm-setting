@@ -26,7 +26,7 @@
       <option name="workingDir" value="$FileDir$" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="true">
+    <TaskOptions isEnabled="false">
       <option name="arguments" value="$USER_HOME$/Dropbox/dev/cibo/NXA_WP_LP/lp/scss/style.scss:/Users/hal/Dropbox/dev/cibo/NXA_WP_LP/lp/css/style.css" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
