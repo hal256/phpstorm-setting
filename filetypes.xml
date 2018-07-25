@@ -11,7 +11,7 @@
       <mapping pattern="bukken_dump_1509436478" type="PLAIN_TEXT" />
       <mapping pattern="read" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1508825058" type="PLAIN_TEXT" />
-      <mapping pattern="1508314027_bukken_data_dump" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="要件" type="PLAIN_TEXT" />
       <mapping pattern="1508318759_bukken_data_dump" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1508824752" type="PLAIN_TEXT" />
@@ -20,6 +20,7 @@
       <mapping pattern="bukken_dump_1509096778" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1509092550" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1509094586" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".local_env" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1509354578" type="PLAIN_TEXT" />
       <mapping pattern="1508313637_bukken_data_dump" type="PLAIN_TEXT" />
@@ -28,13 +29,13 @@
       <mapping pattern="bukken_dump_1508643239" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1508669653" type="PLAIN_TEXT" />
       <mapping pattern="1508320977_bukken_data_dump" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="1508316031_bukken_data_dump" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1508649317" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1509793190" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1509173016" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1509436118" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1509098246" type="PLAIN_TEXT" />
+      <mapping pattern="1508314027_bukken_data_dump" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1509427432" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1508644537" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
