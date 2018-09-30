@@ -19,6 +19,7 @@
       <mapping pattern="bukken_dump_1509092550" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1509094586" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1509417194" type="PLAIN_TEXT" />
+      <mapping pattern="Services" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".production_env" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1509427432" type="PLAIN_TEXT" />
