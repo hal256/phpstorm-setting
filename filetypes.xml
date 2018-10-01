@@ -51,6 +51,7 @@
       <mapping pattern="mansion" type="PLAIN_TEXT" />
       <mapping pattern="LP保存用ディレクトリ" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1509354578" type="PLAIN_TEXT" />
+      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1509096407" type="PLAIN_TEXT" />
       <mapping pattern="bukken_data_dump" type="PLAIN_TEXT" />
       <mapping pattern="result" type="PLAIN_TEXT" />
