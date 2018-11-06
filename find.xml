@@ -14,8 +14,8 @@
     <mask>*.mxml</mask>
     <mask>*.js</mask>
     <mask>*.sass</mask>
+    <mask>*.scss</mask>
     <mask>*.php</mask>
     <mask>*.vue</mask>
-    <mask>*.scss</mask>
   </component>
 </application>
