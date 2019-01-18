@@ -56,6 +56,7 @@
       <mapping pattern="bukken_data_dump" type="PLAIN_TEXT" />
       <mapping pattern="result" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1508669798" type="PLAIN_TEXT" />
+      <mapping ext="tf" type="PLAIN_TEXT" />
       <mapping ext="post_json" type="PLAIN_TEXT" />
       <mapping ext="liquid" type="Twig" />
     </extensionMap>
