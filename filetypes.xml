@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <removed_mapping ext="csv" type="CSV" />
       <mapping pattern="group" type="PHP" />
       <mapping ext="ctp" type="PHP" />
       <mapping pattern="bukken_dump_1508644784" type="PLAIN_TEXT" />
