@@ -20,7 +20,7 @@
       <mapping pattern="bukken_dump_1509094586" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".local_env" type="PLAIN_TEXT" />
-      <mapping pattern="bukken_dump_1509427432" type="PLAIN_TEXT" />
+      <mapping pattern="bukken_dump_1509173016" type="PLAIN_TEXT" />
       <mapping pattern="1508313637_bukken_data_dump" type="PLAIN_TEXT" />
       <mapping pattern="login_cookie" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1509100666" type="PLAIN_TEXT" />
@@ -30,10 +30,10 @@
       <mapping pattern="1508316031_bukken_data_dump" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1508649317" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1509793190" type="PLAIN_TEXT" />
-      <mapping pattern="bukken_dump_1509173016" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1509436118" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1509098246" type="PLAIN_TEXT" />
       <mapping pattern="1508314027_bukken_data_dump" type="PLAIN_TEXT" />
+      <mapping pattern="bukken_dump_1509427432" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1508644537" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="install" type="PLAIN_TEXT" />
