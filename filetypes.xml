@@ -41,6 +41,7 @@
       <mapping pattern="1508306832_bukken_data_dump" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1508670389" type="PLAIN_TEXT" />
       <mapping pattern="LP保存用ディレクトリ" type="PLAIN_TEXT" />
+      <mapping pattern="Api" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1509436397" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1508832059" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1508663764" type="PLAIN_TEXT" />
