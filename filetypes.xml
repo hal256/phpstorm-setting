@@ -14,6 +14,7 @@
       <mapping pattern="1508318759_bukken_data_dump" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1508824752" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1509419691" type="PLAIN_TEXT" />
+      <mapping pattern=".env_backup" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1509093064" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1509096778" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1509092550" type="PLAIN_TEXT" />
