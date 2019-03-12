@@ -20,6 +20,7 @@
       <mapping pattern="bukken_dump_1509096778" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1509092550" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1509094586" type="PLAIN_TEXT" />
+      <mapping pattern=".env_copy" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_nginx" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".local_env" type="PLAIN_TEXT" />
