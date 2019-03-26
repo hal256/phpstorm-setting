@@ -44,6 +44,7 @@
       <mapping pattern="LP保存用ディレクトリ" type="PLAIN_TEXT" />
       <mapping pattern="Api" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1509427432" type="PLAIN_TEXT" />
+      <mapping pattern=".docker_env" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1509436397" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1508832059" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1508663764" type="PLAIN_TEXT" />
