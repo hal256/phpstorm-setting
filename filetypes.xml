@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <removed_mapping ext="csv" type="CSV" />
       <mapping pattern="group" type="PHP" />
       <mapping ext="ctp" type="PHP" />
       <mapping pattern="bukken_dump_1508644784" type="PLAIN_TEXT" />
@@ -13,6 +12,7 @@
       <mapping pattern="bukken_dump_1508825058" type="PLAIN_TEXT" />
       <mapping pattern="要件" type="PLAIN_TEXT" />
       <mapping pattern="1508318759_bukken_data_dump" type="PLAIN_TEXT" />
+      <mapping pattern="bukken_data_dump" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1508824752" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1509419691" type="PLAIN_TEXT" />
       <mapping pattern=".env_backup" type="PLAIN_TEXT" />
@@ -45,22 +45,21 @@
       <mapping pattern="LP保存用ディレクトリ" type="PLAIN_TEXT" />
       <mapping pattern="Api" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1509427432" type="PLAIN_TEXT" />
-      <mapping pattern=".docker_env" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1509436397" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1508832059" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1508663764" type="PLAIN_TEXT" />
       <mapping pattern="init" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1509355968" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile_php_fpm" type="PLAIN_TEXT" />
+      <mapping pattern=".docker_env" type="PLAIN_TEXT" />
       <mapping pattern="school_sample" type="PLAIN_TEXT" />
       <mapping pattern="regist_data_new_room_sample" type="PLAIN_TEXT" />
       <mapping pattern="mansion" type="PLAIN_TEXT" />
       <mapping pattern="chromedriver" type="PLAIN_TEXT" />
       <mapping pattern=".production_env" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1509354578" type="PLAIN_TEXT" />
-      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile_php_fpm" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1509096407" type="PLAIN_TEXT" />
-      <mapping pattern="bukken_data_dump" type="PLAIN_TEXT" />
+      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".env_live" type="PLAIN_TEXT" />
       <mapping pattern="result" type="PLAIN_TEXT" />
