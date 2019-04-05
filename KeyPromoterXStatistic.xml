@@ -17,6 +17,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Reload Page">
+        <Item>
+          <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Reload Page</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rename...">
         <Item>
           <IdeaActionID>RenameElement</IdeaActionID>
@@ -49,6 +57,14 @@
           <Count>20</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Submit">
+        <Item>
+          <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
+          <ShortCut>'⌘⏎'</ShortCut>
+          <Description>Submit</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Terminal">
         <Item>
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
@@ -62,7 +78,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>19</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
     </option>
