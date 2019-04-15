@@ -30,7 +30,7 @@
           <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
           <ShortCut>'⌘⌫'</ShortCut>
           <Description>Delete Rows</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -102,7 +102,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>36</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -166,7 +166,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'⌘⏎'</ShortCut>
           <Description>Submit</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
