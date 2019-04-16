@@ -3,12 +3,8 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
-  <action id="EditorLineEnd">
-    <keyboard-shortcut first-keystroke="end" />
-    <keyboard-shortcut first-keystroke="meta right" />
-  </action>
   <action id="ExpandLiveTemplateCustom">
-    <keyboard-shortcut first-keystroke="ctrl e" />
+    <keyboard-shortcut first-keystroke="ctrl meta e" />
   </action>
   <action id="NextSplitter" />
   <action id="QuickImplementations">
