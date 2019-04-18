@@ -94,7 +94,7 @@
           <IdeaActionID>Console.TableResult.PreviousPage</IdeaActionID>
           <ShortCut>'⌥⌘↑'</ShortCut>
           <Description>Previous Page</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
