@@ -41,6 +41,14 @@
           <Count>91</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Delete Row">
+        <Item>
+          <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
+          <ShortCut>'⌘⌫'</ShortCut>
+          <Description>Delete Row</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Delete Rows">
         <Item>
           <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
@@ -182,7 +190,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'⌘⏎'</ShortCut>
           <Description>Submit</Description>
-          <Count>22</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
