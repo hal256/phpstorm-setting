@@ -20,6 +20,7 @@
       <mapping pattern="1508320977_bukken_data_dump" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1509436478" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1508825058" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="要件" type="PLAIN_TEXT" />
       <mapping pattern="1508318759_bukken_data_dump" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1508824752" type="PLAIN_TEXT" />
