@@ -67,6 +67,7 @@
       <mapping pattern=".env_live" type="PLAIN_TEXT" />
       <mapping pattern="result" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1508669798" type="PLAIN_TEXT" />
+      <mapping ext="iam" type="PLAIN_TEXT" />
       <mapping ext="post_json" type="PLAIN_TEXT" />
       <mapping ext="liquid" type="Twig" />
       <mapping ext="fnc" type="DBN-PSQL" />
