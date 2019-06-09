@@ -70,7 +70,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>365</Count>
+          <Count>366</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -286,7 +286,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'artisan'</Description>
-          <Count>229</Count>
+          <Count>233</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'index.php'">
@@ -342,7 +342,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12' or '⌥Space'</ShortCut>
           <Description>Terminal</Description>
-          <Count>207</Count>
+          <Count>208</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
