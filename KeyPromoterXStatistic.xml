@@ -166,7 +166,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -222,7 +222,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties">
@@ -446,7 +446,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12' or '⌥Space'</ShortCut>
           <Description>Terminal</Description>
-          <Count>243</Count>
+          <Count>244</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
