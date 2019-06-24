@@ -20,6 +20,8 @@
     <mask>*</mask>
     <mask>*.js</mask>
     <mask>*.vue</mask>
+    <mask>*.liquid,*.js</mask>
+    <mask>*.vue, *.js</mask>
     <mask>*.php</mask>
   </component>
 </application>
