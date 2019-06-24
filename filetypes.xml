@@ -2,12 +2,21 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="group" type="PHP" />
       <mapping ext="ctp" type="PHP" />
       <mapping pattern="bukken_dump_1508644784" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1509417194" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1509417193" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile_php_fpm" type="PLAIN_TEXT" />
       <mapping pattern="1508320977_bukken_data_dump" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1509436478" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1508825058" type="PLAIN_TEXT" />
@@ -19,9 +28,11 @@
       <mapping pattern="bukken_dump_1509093064" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1509096778" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1509092550" type="PLAIN_TEXT" />
+      <mapping pattern="bukken_dump_1509094586" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1508669653" type="PLAIN_TEXT" />
       <mapping pattern=".env_copy" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_nginx" type="PLAIN_TEXT" />
+      <mapping pattern="result" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1509173016" type="PLAIN_TEXT" />
@@ -52,7 +63,6 @@
       <mapping pattern="bukken_dump_1509355968" type="PLAIN_TEXT" />
       <mapping pattern=".docker_env" type="PLAIN_TEXT" />
       <mapping pattern="school_sample" type="PLAIN_TEXT" />
-      <mapping pattern="bukken_dump_1509094586" type="PLAIN_TEXT" />
       <mapping pattern="regist_data_new_room_sample" type="PLAIN_TEXT" />
       <mapping pattern="mansion" type="PLAIN_TEXT" />
       <mapping pattern="chromedriver" type="PLAIN_TEXT" />
@@ -60,24 +70,14 @@
       <mapping pattern=".production_env" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1509354578" type="PLAIN_TEXT" />
       <mapping pattern=".env_live" type="PLAIN_TEXT" />
-      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile_php_fpm" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1509096407" type="PLAIN_TEXT" />
       <mapping pattern="bukken_data_dump" type="PLAIN_TEXT" />
       <mapping pattern="read" type="PLAIN_TEXT" />
-      <mapping pattern="result" type="PLAIN_TEXT" />
+      <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern="bukken_dump_1508669798" type="PLAIN_TEXT" />
       <mapping ext="post_json" type="PLAIN_TEXT" />
       <mapping ext="liquid" type="Twig" />
-      <mapping ext="fnc" type="DBN-PSQL" />
-      <mapping ext="pkb" type="DBN-PSQL" />
-      <mapping ext="pkg" type="DBN-PSQL" />
-      <mapping ext="pks" type="DBN-PSQL" />
-      <mapping ext="prc" type="DBN-PSQL" />
-      <mapping ext="tpb" type="DBN-PSQL" />
-      <mapping ext="tpe" type="DBN-PSQL" />
-      <mapping ext="tps" type="DBN-PSQL" />
-      <mapping ext="trg" type="DBN-PSQL" />
-      <mapping ext="vw" type="DBN-SQL" />
     </extensionMap>
   </component>
 </application>
