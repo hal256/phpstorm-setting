@@ -110,7 +110,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>787</Count>
+          <Count>803</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -230,7 +230,7 @@
           <IdeaActionID>Console.TableResult.NextPage</IdeaActionID>
           <ShortCut>'⌥⌘↓'</ShortCut>
           <Description>Next Page</Description>
-          <Count>28</Count>
+          <Count>46</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Console">
@@ -254,7 +254,7 @@
           <IdeaActionID>Console.TableResult.PreviousPage</IdeaActionID>
           <ShortCut>'⌥⌘↑'</ShortCut>
           <Description>Previous Page</Description>
-          <Count>6</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
