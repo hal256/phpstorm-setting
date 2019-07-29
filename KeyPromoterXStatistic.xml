@@ -110,7 +110,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>891</Count>
+          <Count>892</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -294,7 +294,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>216</Count>
+          <Count>245</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -462,7 +462,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'index.php'</Description>
-          <Count>328</Count>
+          <Count>331</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'nuxt-dev'">
