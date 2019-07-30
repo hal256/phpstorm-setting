@@ -21,9 +21,9 @@
     <mask>*.liquid,*.js</mask>
     <mask>*.vue, *.js</mask>
     <mask>*.liquid</mask>
-    <mask>*.js</mask>
     <mask>*.tf</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
     <mask>*.vue</mask>
   </component>
 </application>
