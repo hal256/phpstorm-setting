@@ -350,7 +350,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>248</Count>
+          <Count>256</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -478,7 +478,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'index.php'</Description>
-          <Count>334</Count>
+          <Count>344</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'nuxt-dev'">
