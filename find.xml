@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.vue" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -20,10 +20,10 @@
     <mask>*</mask>
     <mask>*.liquid,*.js</mask>
     <mask>*.vue, *.js</mask>
-    <mask>*.vue</mask>
     <mask>*.tf</mask>
     <mask>*.liquid</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
