@@ -18,9 +18,9 @@
     <mask>*.liquid,*.js</mask>
     <mask>*.vue, *.js</mask>
     <mask>*.tf</mask>
-    <mask>*.vue</mask>
     <mask>*.js</mask>
     <mask>*.liquid</mask>
     <mask>*.php</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
