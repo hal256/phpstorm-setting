@@ -22,7 +22,7 @@
     <mask>*.tf</mask>
     <mask>*.liquid</mask>
     <mask>*.php</mask>
-    <mask>*.js</mask>
     <mask>*.vue</mask>
+    <mask>*.js</mask>
   </component>
 </application>
